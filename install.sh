@@ -13,3 +13,6 @@ source ~/.bashrc
 sudo apt install make g++ zlib1g-dev gdb -y
 git clone https://github.com/tomverbeure/gdbwave.git
 pushd gdbwave/src && make && popd
+
+# For X11 forwarding
+sudo apt install xauth
