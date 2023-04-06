@@ -1,0 +1,4 @@
+iverilog -Ttyp -DFUNCTIONAL -DSIM -DUNIT_DELAY=#1  -o clock_tb.vvp clock_tb.v
+
+vvp clock_tb.vvp
+gtkwave clock_tb.vcd
