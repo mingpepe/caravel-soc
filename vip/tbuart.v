@@ -55,7 +55,9 @@ module tbuart (
 	// passed specific command words.
 
 //	always #1500 clk <= (clk === 1'b0);
-	always #2650 clk <= (clk === 1'b0);  // working for 9600 baud
+//	Baudrate 9600 => 104.16us
+//	Use 5 clock cycle to meet 104.16us
+	always #10416 clk <= (clk === 1'b0);  // working for 9600 baud
 //	always #125 clk <= (clk === 1'b0);
 
 	always @(posedge clk) begin
@@ -66,13 +68,13 @@ module tbuart (
 					recv_state <= 1;
 				recv_divcnt <= 0;
 			end
-			1: begin
-				if (2*recv_divcnt > 3'd3) begin
-					recv_state <= 2;
-					recv_divcnt <= 0;
-				end
-			end
-			10: begin
+			//1: begin
+			//	if (2*recv_divcnt > 3'd3) begin
+			//		recv_state <= 2;
+			//		recv_divcnt <= 0;
+			//	end
+			//end
+			9: begin
 				if (recv_divcnt > 3'd3) begin
 					// 0x0a = '\n'
 					if (recv_pattern == 8'h0a) begin

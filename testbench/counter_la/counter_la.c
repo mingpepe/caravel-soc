@@ -111,6 +111,9 @@ void main()
 	// Flag start of the test 
 	reg_mprj_datal = 0xAB400000;
 
+	for (int i = 0; i < 20; i++) {
+		putchar('a' + i);
+	}
 	// Set Counter value to zero through LA probes [63:32]
 	reg_la1_data = 0x00000000;
 
