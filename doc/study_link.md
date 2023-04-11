@@ -6,3 +6,4 @@
 * https://github.com/bol-edu/caravel-soc/files/11107539/Caravel.clock.code.trace.pdf
 * https://github.com/bol-edu/caravel-soc/files/11109186/GPIO_MPRJ_IO.by.Willy.pdf
 * https://github.com/bol-edu/caravel-soc/files/11191261/Caravel_SoC_UART.pdf
+* https://github.com/bol-edu/caravel-soc/files/11195926/Wishbone.Introduction.by.Josh.pdf
