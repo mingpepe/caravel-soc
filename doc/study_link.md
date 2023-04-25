@@ -8,3 +8,6 @@
 * https://github.com/bol-edu/caravel-soc/files/11191261/Caravel_SoC_UART.pdf
 * https://github.com/bol-edu/caravel-soc/files/11195926/Wishbone.Introduction.by.Josh.pdf
 * https://github.com/bol-edu/caravel-soc/files/11257530/Introduction.abuot.counter.timer.IRQ.and.debugging.pdf
+* https://hackmd.io/syf9t69ATcKYZlUeoJ1wqg
+* https://hackmd.io/B0viSeCvTRiyM294rnVzNw
+* https://github.com/bol-edu/caravel-soc/files/11311785/Lower.Power.Planning.in.Caravel.SOC.pptx
