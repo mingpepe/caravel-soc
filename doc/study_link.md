@@ -11,3 +11,9 @@
 * https://hackmd.io/syf9t69ATcKYZlUeoJ1wqg
 * https://hackmd.io/B0viSeCvTRiyM294rnVzNw
 * https://github.com/bol-edu/caravel-soc/files/11311785/Lower.Power.Planning.in.Caravel.SOC.pptx
+* Lab1 
+  * https://github.com/bol-edu/caravel-soc/files/11370365/Caravel_FPGA_Labs_Lab1_Allen_20230424.pptx
+  * https://www.youtube.com/watch?v=WI5qV2pY6Tg&list=PL5CoDA0gtOHVgDr9OcUw00fQ-8MOtTz4a&index=12&pp=gAQBiAQB
+* Lab3
+  * https://github.com/bol-edu/caravel-soc/files/11370375/Caravel.FPGA.Lab.3.Implement.-Axilite.pptx
+  * https://www.youtube.com/watch?v=OU76cC8wIq4&list=PL5CoDA0gtOHVgDr9OcUw00fQ-8MOtTz4a&index=13&pp=gAQBiAQB
