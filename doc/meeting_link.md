@@ -7,3 +7,4 @@
 * https://github.com/bol-edu/caravel-soc/files/11308221/fsic-9th-meeting.4-17-2023.pdf
 * https://github.com/bol-edu/caravel-soc/files/11308852/fsic-10th-meeting.4-24-2023.pdf
 * https://github.com/bol-edu/caravel-soc/files/11370356/fsic-11th-meeting.5-1-2023.pdf
+* https://github.com/bol-edu/caravel-soc/files/11422325/fsic-12th-meeting.5-8-2023.pdf
