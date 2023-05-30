@@ -1,3 +1,5 @@
+https://www.youtube.com/playlist?list=PL5CoDA0gtOHVgDr9OcUw00fQ-8MOtTz4a
+
 * https://github.com/bol-edu/caravel-soc/files/10861746/fsic-2nd-meeting.3-1-23.pdf
 * https://github.com/bol-edu/caravel-soc/files/10898962/fsic-3rd-meeting.3-6-2023.pdf
 * https://github.com/bol-edu/caravel-soc/files/10963223/fsic-4th-meeting.3-13-2023.pdf
@@ -10,3 +12,4 @@
 * https://github.com/bol-edu/caravel-soc/files/11422325/fsic-12th-meeting.5-8-2023.pdf
 * https://github.com/bol-edu/caravel-soc/files/11482701/fsic-13th-meeting.5-15-2023.pdf
 * https://github.com/bol-edu/caravel-soc/files/11552421/fsic-14th-meeting.5-22-2023.pdf
+* https://github.com/bol-edu/caravel-soc/files/11597653/fsic-15h-meeting.5-29-2023.pdf
