@@ -17,5 +17,10 @@
 * Lab3
   * https://github.com/bol-edu/caravel-soc/files/11370375/Caravel.FPGA.Lab.3.Implement.-Axilite.pptx
   * https://www.youtube.com/watch?v=OU76cC8wIq4&list=PL5CoDA0gtOHVgDr9OcUw00fQ-8MOtTz4a&index=13&pp=gAQBiAQB
-* https://github.com/bol-edu/caravel-soc/files/11422366/AXI4.lite.and.AXI4.stream.pdf
+
 * https://hackmd.io/@TonyHo/BkIwrYyN3
+* Spec
+  * https://github.com/bol-edu/caravel-soc/files/11422366/AXI4.lite.and.AXI4.stream.pdf
+  * https://github.com/bol-edu/caravel-soc/files/11597699/Axilite_Axis.Axilite.Axis.Protocol.Conversion.Implementation.Specification.pdf
+  * https://github.com/bol-edu/caravel-soc/files/11597726/LogicAnalyzer.Implementation.Specification.pdf
+  * https://github.com/bol-edu/caravel-soc/files/11597784/AxiDMA.FPGA.Axis.to.Axim.DMA.Implementation.Specification.pdf
